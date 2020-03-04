@@ -2,7 +2,7 @@
 @AbapCatalog.compiler.compareFilter: true
 @AbapCatalog.preserveKey: true
 @AccessControl.authorizationCheck: #CHECK
-@EndUserText.label: 'YSK_CDS3_sumittest'
+@EndUserText.label: 'YSK_CDS3_sumittest1'
 define view YSK_CDS3 as select from zagency {
     //zagency
     key agency_id,
