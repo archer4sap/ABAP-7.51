@@ -9,7 +9,7 @@ DATA(lt_days) =
   VALUE ltty_days(
     ( `Mon` ) ( `Tue` ) ( `Wed` ) ).
 
-// This is a test
+// This is a new test
 lt_days =
   VALUE #(
     BASE lt_days
